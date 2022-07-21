@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/meatos-beta/static/js/main.cbeba5c8.js",
+    "static/media/pc-login.svg": "/meatos-beta/static/media/pc-login.b0a95a603fa49f57597b28b08492c82d.svg",
+    "static/media/logo.svg": "/meatos-beta/static/media/logo.8511655593f519ce9778be9592d33de6.svg",
+    "static/media/config.svg": "/meatos-beta/static/media/config.42c284a45ca2b14335691ea35f680c54.svg",
+    "static/media/exit.svg": "/meatos-beta/static/media/exit.77cc52a907a439903d2b61e5f71350c1.svg",
+    "static/media/inprogress-task.svg": "/meatos-beta/static/media/inprogress-task.1e939a2f65e6d9b2d33979c416a41691.svg",
+    "static/media/canceled-task.svg": "/meatos-beta/static/media/canceled-task.fb83c4f9567d2ac59cdb531b2469eae1.svg",
+    "static/media/open-task.svg": "/meatos-beta/static/media/open-task.c5eb1dd46b036dd4963a30bdaf67f2b6.svg",
+    "static/media/done-task.svg": "/meatos-beta/static/media/done-task.806ab1f410ff3303f72b98cb2e6e5f2c.svg",
+    "index.html": "/meatos-beta/index.html",
+    "static/media/close.svg": "/meatos-beta/static/media/close.f62862c6571367515ce17c7b4e77a1fc.svg",
+    "main.cbeba5c8.js.map": "/meatos-beta/static/js/main.cbeba5c8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cbeba5c8.js"
+  ]
+}
